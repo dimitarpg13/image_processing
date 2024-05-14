@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "scikit-image-demo"
+version = "0.1.0"
+description = ""
+authors = ["Dimitar Gueorguiev <dimitar_pg13@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scikit-image = "^0.23.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
