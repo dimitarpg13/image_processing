@@ -33,6 +33,10 @@
 
 github repo: https://github.com/cs231n/cs231n.github.io
 
+### Object Detection Techniques and Algorithms
+
+[Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
+
 ## Open Source Libraries
 
 ### scikit-image
