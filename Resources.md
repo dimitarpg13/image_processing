@@ -1,5 +1,14 @@
 # Image Processing Algorithms and Open Source Libraries in Python
 
+## Books and articles
+
+[Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
+
+[CenSurE: Center Surround Extremas for Realtime Feature Detection and Matching, M. Agrawal et al, 2008](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/CenSurE_Center_Surround_Extremas_for_Realtime_Feature_Detection_and_Matching_Agrawal_2008.pdf)
+
+[Theory of Edge Detection, D. Marr, E. Hildreth, MIT, 1979](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/theory_of_edge_detection_marr_hildreth_1980.pdf)
+
+
 ## Image Filtering 
 
 [Tutorial on Image Filtering, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial1.html)
