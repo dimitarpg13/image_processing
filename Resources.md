@@ -6,6 +6,8 @@
 
 [CenSurE: Center Surround Extremas for Realtime Feature Detection and Matching, M. Agrawal et al, 2008](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/CenSurE_Center_Surround_Extremas_for_Realtime_Feature_Detection_and_Matching_Agrawal_2008.pdf)
 
+[Marching Cubes - A High Resolution 3D Surface Construction Algorithm, W.E. Lorensen and H.E. Kline, GE, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Marching_Cubes-A_High_Resolution_3D_Surface_Construction_Algorithm_lorenson-and-cline-1987.pdf)
+
 [Snakes - Active Contour Models, M. Kass et al, IJCV, 1988](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Snakes-Active_contour_models_Kass_IJCV_1988.pdf)
 
 [Theory of Edge Detection, D. Marr, E. Hildreth, MIT, 1979](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/theory_of_edge_detection_marr_hildreth_1980.pdf)
