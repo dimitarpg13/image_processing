@@ -20,6 +20,6 @@
 
 [CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
 
-    github repo: https://github.com/cs231n/cs231n.github.io
+github repo: https://github.com/cs231n/cs231n.github.io
 
 
