@@ -34,3 +34,9 @@
 github repo: https://github.com/cs231n/cs231n.github.io
 
 ## Open Source Libraries
+
+### scikit-image
+
+https://scikit-image.org/
+
+
