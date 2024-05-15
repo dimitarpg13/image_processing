@@ -37,6 +37,8 @@ github repo: https://github.com/cs231n/cs231n.github.io
 
 [Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
 
+[Blob Detection, Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)
+
 ## Open Source Libraries
 
 ### scikit-image
