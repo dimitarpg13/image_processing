@@ -39,4 +39,7 @@ github repo: https://github.com/cs231n/cs231n.github.io
 
 https://scikit-image.org/
 
+### opencv
+
+https://docs.opencv.org/4.x/index.html
 
