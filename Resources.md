@@ -8,6 +8,8 @@
 
 [Theory of Edge Detection, D. Marr, E. Hildreth, MIT, 1979](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/theory_of_edge_detection_marr_hildreth_1980.pdf)
 
+[Edge Detection: A Statistical Approach, A. Halder et al, ICECT, 2011](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/edge_detection_statistical_approach_halder_2011.pdf)
+
 
 ### Image Filtering 
 
