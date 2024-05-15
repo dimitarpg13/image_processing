@@ -16,7 +16,7 @@
 
 [Tutorial on Image Recognition, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html)
 
-[](https://cs231n.github.io/neural-networks-1/)
+## Class CS231n: Deep Learning for Computer Vision at Stanford
 
 [CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
 
