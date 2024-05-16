@@ -9,6 +9,10 @@
 
 [Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
+[Highly Accurate Dichotomous Image Segmentation, X. Qin et al, 2022](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
+
+related repo: https://github.com/dimitarpg13/dichotomous_image_segmentation
+
 [A Fast Parallel Algorithm for Thinning Digital Patterns, TY Zhang, CY Suen, Comm. of ACM, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/A_Fast_Parallel_Algorithm_for_Thinning_Digital_Patterns_Zhang_ACM_1984.pdf)
 
 scikit-image implementation: [skeletonize example](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html)
