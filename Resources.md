@@ -15,6 +15,8 @@ scikit-image implementation: [skeletonize example](https://scikit-image.org/docs
 
 [Building skeleton models via 3-D medial surface/axis thinning algorithms, TC Lee, RL Kashyap and CN Chu, CVGIP, 1994](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Building_skeleton_models_via_3-D_medial_surface-axis_thinning_algorithms_Lee_1994.pdf)
 
+scikit-image implementation: [skeletonize example](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html)
+
 [CenSurE: Center Surround Extremas for Realtime Feature Detection and Matching, M. Agrawal et al, 2008](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/CenSurE_Center_Surround_Extremas_for_Realtime_Feature_Detection_and_Matching_Agrawal_2008.pdf)
 
 scikit-image implementation: [CenSurE feature detector example](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_censure.html)
