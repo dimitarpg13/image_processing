@@ -1,0 +1,3 @@
+[submodule "src/dichotomous_image_segmentation"]
+	path = src/dichotomous_image_segmentation
+	url = https://github.com/dimitarpg13/dichotomous_image_segmentation.git
