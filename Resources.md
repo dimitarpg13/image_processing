@@ -1,6 +1,8 @@
 # Image Processing Algorithms and Open Source Libraries in Python
 
 ## Books, articles, online materials
+[Handbook of Computer Vision and Applications: Volume 2 Signal Processing and Pattern Recognition, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf)
+
 [Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd edition, draft, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf)
 
 [Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
