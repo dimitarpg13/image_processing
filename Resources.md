@@ -4,6 +4,12 @@
 
 [Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
 
+[Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
+
+[A Fast Parallel Algorithm for Thinning Digital Patterns, TY Zhang, CY Suen, Comm. of ACM, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/A_Fast_Parallel_Algorithm_for_Thinning_Digital_Patterns_Zhang_ACM_1984.pdf)
+
+[Building skeleton models via 3-D medial surface/axis thinning algorithms, TC Lee, RL Kashyap and CN Chu, CVGIP, 1994](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Building_skeleton_models_via_3-D_medial_surface-axis_thinning_algorithms_Lee_1994.pdf)
+
 [CenSurE: Center Surround Extremas for Realtime Feature Detection and Matching, M. Agrawal et al, 2008](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/CenSurE_Center_Surround_Extremas_for_Realtime_Feature_Detection_and_Matching_Agrawal_2008.pdf)
 
 [Marching Cubes - A High Resolution 3D Surface Construction Algorithm, W.E. Lorensen and H.E. Kline, GE, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Marching_Cubes-A_High_Resolution_3D_Surface_Construction_Algorithm_lorenson-and-cline-1987.pdf)
