@@ -3,15 +3,14 @@
 ## Books, articles, online materials
 [Handbook of Computer Vision and Applications: Volume 2 Signal Processing and Pattern Recognition, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf)
 
+[Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
+
 [Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd edition, draft, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf)
 
 [Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
 
 [Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
-[Highly Accurate Dichotomous Image Segmentation, X. Qin et al, 2022](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
-
-related repo: https://github.com/dimitarpg13/dichotomous_image_segmentation
 
 [A Fast Parallel Algorithm for Thinning Digital Patterns, TY Zhang, CY Suen, Comm. of ACM, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/A_Fast_Parallel_Algorithm_for_Thinning_Digital_Patterns_Zhang_ACM_1984.pdf)
 
