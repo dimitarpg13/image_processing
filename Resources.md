@@ -57,6 +57,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001)
 
+[An Image Inpainting Technique Based on the Fast Marching Method, Alexandru Telea, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_2004JGraphToolsTelea.pdf)
+
 ### Class CS231n: Deep Learning for Computer Vision at Stanford
 
 [CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
