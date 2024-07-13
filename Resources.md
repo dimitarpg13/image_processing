@@ -53,6 +53,10 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Tutorial on Image Recognition, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html)
 
+### Image Inpainting
+
+[Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001)
+
 ### Class CS231n: Deep Learning for Computer Vision at Stanford
 
 [CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
