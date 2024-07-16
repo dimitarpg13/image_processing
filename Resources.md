@@ -37,23 +37,25 @@ scikit-image implementation: [active contour model example](https://scikit-image
 [Edge Detection: A Statistical Approach, A. Halder et al, ICECT, 2011](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/edge_detection_statistical_approach_halder_2011.pdf)
 
 
-### Image Filtering 
+### Filtering and Blurring 
 
-[Tutorial on Image Filtering, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial1.html)
+[Tutorial on Image Filtering, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial1.html)
+
+[Spatial Filtering: Laplacian and Laplacian of Gaussian, online document](https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm)
 
 ### Image Matching 
 
-[Tutorial on Image Matching, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial2.html)
+[Tutorial on Image Matching, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial2.html)
 
 ### Image Segmentation
 
-[Tutorial on Image Segmentation, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial3.html)
+[Tutorial on Image Segmentation, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial3.html)
 
 ### Image Recognition
 
-[Tutorial on Image Recognition, Serena Yeung, Stanford U., 2015](https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html)
+[Tutorial on Image Recognition, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html)
 
-### Image Inpainting
+### Inpainting Methods, Techniques, and Algorithms
 
 [Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001)
 
