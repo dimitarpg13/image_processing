@@ -39,6 +39,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 ### Filtering and Blurring 
 
+[Gaussian blur, Wikipedia](https://en.wikipedia.org/wiki/Gaussian_blur)
+
 [Tutorial on Image Filtering, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial1.html)
 
 [Spatial Filtering: Laplacian and Laplacian of Gaussian, online document](https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm)
