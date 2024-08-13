@@ -19,4 +19,19 @@ literature/articles/A_computational_approach_to_edge_detection_Canny_1986.pdf fi
 literature/articles/Building_skeleton_models_via_3-D_medial_surface-axis_thinning_algorithms_Lee_1994.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Marching_Cubes-A_High_Resolution_3D_Surface_Construction_Algorithm_lorenson-and-cline-1987.pdf diff=lfs merge=lfs -text
 literature/articles/Snakes-Active_contour_models_Kass_IJCV_1988.pdf filter=lfs diff=lfs merge=lfs -text
+docs/EdgeDetection_A_Farhadi_slides.pdf filter=lfs diff=lfs merge=lfs -text
+docs/cds-scikit-image.pdf filter=lfs diff=lfs merge=lfs -text
+docs/semantic_segmentation.pdf filter=lfs diff=lfs merge=lfs -text
+docs/skimage.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Marching_Cubes-A_High_Resolution_3D_Surface_Construction_Algorithm_lorenson-and-cline-1987.pdf filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/NASA_observer.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/NASA_scientist.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/astronaut_in_weigthlessness.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/designer.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/engineer.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/high_level_meeting.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/high_level_visit.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/meeting.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/scientist.png filter=lfs diff=lfs merge=lfs -text
+src/demo_code/scikit-image-demo/images/visitors.png filter=lfs diff=lfs merge=lfs -text
 
