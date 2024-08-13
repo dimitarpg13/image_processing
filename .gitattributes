@@ -9,3 +9,14 @@ literature/articles/inpainting_algorithms/sethian-1996-a-fast-marching-level-set
 literature/articles/filter_and_blur/A_Survey_of_Gaussian_Convolution_Algorithms_Getreuer_2013.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/filter_and_blur/Discrete_Approximations_of_Gaussian_Smoothing_and_Gaussian_Derivatives_Lindeberg_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/inpainting_algorithms/Inpainting_Bertalmio_annotated.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Handbook_of_Computer_Vision_and_Applications_Vol1_Sensors_and_Imaging_Bernd_Jahne.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/A_computational_approach_to_edge_detection_Canny_1986.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Building_skeleton_models_via_3-D_medial_surface-axis_thinning_algorithms_Lee_1994.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Marching_Cubes-A_High_Resolution_3D_Surface_Construction_Algorithm_lorenson-and-cline-1987.pdf diff=lfs merge=lfs -text
+literature/articles/Snakes-Active_contour_models_Kass_IJCV_1988.pdf filter=lfs diff=lfs merge=lfs -text
+
