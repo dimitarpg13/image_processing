@@ -1,0 +1,11 @@
+literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_Telea_2004.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_2004JGraphToolsTelea.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Fast_Digital_Image_Inpainting_Oliveira_2001.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Mathematical_Models_for_Local_deterministic_Inpaintings_Chan_2000.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Multiscale_modelling_of_complex_fluids-A_mathematical_initiation_RR-6275_Le_Bris_2007.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Pyramid-Based_Texture_Analysis_Synthesis_Heeger-siggraph95.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/sethian-1996-a-fast-marching-level-set-method-for-monotonically-advancing-fronts.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/filter_and_blur/A_Survey_of_Gaussian_Convolution_Algorithms_Getreuer_2013.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/filter_and_blur/Discrete_Approximations_of_Gaussian_Smoothing_and_Gaussian_Derivatives_Lindeberg_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Inpainting_Bertalmio_annotated.pdf filter=lfs diff=lfs merge=lfs -text
