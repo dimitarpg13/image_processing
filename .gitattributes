@@ -38,3 +38,4 @@ literature/books/2016_Book_DigitalImageProcessing.pdf filter=lfs diff=lfs merge=
 literature/books/Digital_Image_Processing_Gonzales_2017.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/the-image-processing-handbook-Russ.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/principles-of-digital-image-processing-core-algorithms_Burger_and_Burge_2009.pdf filter=lfs diff=lfs merge=lfs -text
