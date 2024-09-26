@@ -39,3 +39,8 @@ literature/books/Digital_Image_Processing_Gonzales_2017.pdf filter=lfs diff=lfs 
 literature/books/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/the-image-processing-handbook-Russ.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/principles-of-digital-image-processing-core-algorithms_Burger_and_Burge_2009.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/handbook-of-image-processing-and-computer-vision-vol1-from-energy-to-image.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/handbook-of-image-processing-and-computer-vision-volume-2-from-image-to-pattern-2.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/handbook-of-image-processing-and-computer-vision-volume-3-from-pattern-to-object.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/image-co-segmentation.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf filter=lfs diff=lfs merge=lfs -text
