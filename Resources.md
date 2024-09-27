@@ -14,8 +14,6 @@
 
 [A Fast Parallel Algorithm for Thinning Digital Patterns, TY Zhang, CY Suen, Comm. of ACM, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/A_Fast_Parallel_Algorithm_for_Thinning_Digital_Patterns_Zhang_ACM_1984.pdf)
 
-scikit-image implementation: [skeletonize example](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html)
-
 [Building skeleton models via 3-D medial surface/axis thinning algorithms, TC Lee, RL Kashyap and CN Chu, CVGIP, 1994](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Building_skeleton_models_via_3-D_medial_surface-axis_thinning_algorithms_Lee_1994.pdf)
 
 scikit-image implementation: [skeletonize example](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html)
