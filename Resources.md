@@ -11,6 +11,8 @@
 
 [Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
+[Discrete Time Signal Processing, Alan Oppenheim, Ronald Schafer, MIT, 2nd Edition, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf)
+
 ## Articles and online materials
 
 [A Fast Parallel Algorithm for Thinning Digital Patterns, TY Zhang, CY Suen, Comm. of ACM, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/A_Fast_Parallel_Algorithm_for_Thinning_Digital_Patterns_Zhang_ACM_1984.pdf)
