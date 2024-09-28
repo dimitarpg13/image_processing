@@ -7,6 +7,8 @@
 
 [Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
 
+[Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
+
 [Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
 
 [Principles of Digital Image Synthesis, Vol. 1, Andrew S. Glassner, 1995](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
