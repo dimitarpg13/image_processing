@@ -67,6 +67,10 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 ### Image Segmentation
 
+[Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
+
+[Image Co-Segmentation, Avik Hati et al, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-co-segmentation.pdf)
+
 [Tutorial on Image Segmentation, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial3.html)
 
 ### Image Recognition
