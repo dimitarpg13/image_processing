@@ -65,12 +65,6 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [An Image Inpainting Technique Based on the Fast Marching Method, Alexandru Telea, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_2004JGraphToolsTelea.pdf)
 
-### Class CS231n: Deep Learning for Computer Vision at Stanford
-
-[CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
-
-github repo: https://github.com/cs231n/cs231n.github.io
-
 ### Object Detection Techniques and Algorithms
 
 [Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
@@ -87,3 +81,10 @@ https://scikit-image.org/
 
 https://docs.opencv.org/4.x/index.html
 
+## Classes related to Image Processing Algorithms
+
+### Class CS231n: Deep Learning for Computer Vision at Stanford
+
+[CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
+
+github repo: https://github.com/cs231n/cs231n.github.io
