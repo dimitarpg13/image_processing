@@ -9,6 +9,8 @@
 
 [Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
 
+[Image Co-Segmentation, Avik Hati et al, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-co-segmentation.pdf)
+
 [Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
 
 [Principles of Digital Image Synthesis, Vol. 1, Andrew S. Glassner, 1995](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
