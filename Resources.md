@@ -91,6 +91,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Nonlinear Total Variation Based Noise Removal Algorithms, L. Rudin, S. Osher, E. Fatemi, 1992](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Nonlinear_total_variation_based_noise_removal_algo_Rudin_1999.pdf)
 
+[Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
+
 ### Object Detection Techniques and Algorithms
 
 [Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
