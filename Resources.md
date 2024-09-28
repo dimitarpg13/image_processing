@@ -69,6 +69,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Mathematical Models for Local Deterministic Inpaintings, T. Chan and J. Shen, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Mathematical_Models_for_Local_deterministic_Inpaintings_Chan_2000.pdf)
 
+[Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
+
 ### Object Detection Techniques and Algorithms
 
 [Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
