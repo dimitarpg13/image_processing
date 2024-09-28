@@ -47,3 +47,4 @@ literature/books/image-segmentation-principles-techniques-and-applications_Lei_2
 literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/inpainting_algorithms/Nonlinear_total_variation_based_noise_removal_algo_Rudin_1999.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf filter=lfs diff=lfs merge=lfs -text
