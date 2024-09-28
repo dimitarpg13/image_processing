@@ -1,18 +1,35 @@
 # Image Processing Algorithms and Open Source Libraries in Python
 
 ## Books
-[Handbook of Computer Vision and Applications: Volume 2 Signal Processing and Pattern Recognition, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf)
-
-[Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
-
 [Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd edition, draft, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf)
-
-[Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
 
 [Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
+[Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
+
+[Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
+
+[Image Co-Segmentation, Avik Hati et al, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-co-segmentation.pdf)
+
+[Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
+
+[Principles of Digital Image Synthesis, Vol. 1, Andrew S. Glassner, 1995](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
+
+[Handbook of Image Processing and Computer Vision, Vol1: From Energy to Image, Arcangelo Distante, Cosimo Distante, Springer, 2020](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/handbook-of-image-processing-and-computer-vision-vol1-from-energy-to-image.pdf)
+
+[Handbook of Image Processing and Computer Vision, Vol2: From Image to Pattern, Arcangelo Distante, Cosimo Distante, Springer, 2020](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/handbook-of-image-processing-and-computer-vision-volume-2-from-image-to-pattern-2.pdf)
+
+[Handbook of Image Processing and Computer Vision, Vol3: From Pattern to Object, Arcangelo Distante, Cosimo Distante, Springer, 2020](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/handbook-of-image-processing-and-computer-vision-volume-3-from-pattern-to-object.pdf)
+
+[Handbook of Computer Vision and Applications: Volume 1 Sensors and Imaging, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol1_Sensors_and_Imaging_Bernd_Jahne.pdf)
+
+[Handbook of Computer Vision and Applications: Volume 2 Signal Processing and Pattern Recognition, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf)
+
+[Discrete Time Signal Processing, Alan Oppenheim, Ronald Schafer, MIT, 2nd Edition, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf)
+
 ## Articles and online materials
 
+### Edge Detection, Contour Finding, Skeletonizing Algorithms
 [A Fast Parallel Algorithm for Thinning Digital Patterns, TY Zhang, CY Suen, Comm. of ACM, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/A_Fast_Parallel_Algorithm_for_Thinning_Digital_Patterns_Zhang_ACM_1984.pdf)
 
 [Building skeleton models via 3-D medial surface/axis thinning algorithms, TC Lee, RL Kashyap and CN Chu, CVGIP, 1994](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/Building_skeleton_models_via_3-D_medial_surface-axis_thinning_algorithms_Lee_1994.pdf)
@@ -50,6 +67,10 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 ### Image Segmentation
 
+[Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
+
+[Image Co-Segmentation, Avik Hati et al, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-co-segmentation.pdf)
+
 [Tutorial on Image Segmentation, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial3.html)
 
 ### Image Recognition
@@ -62,11 +83,13 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [An Image Inpainting Technique Based on the Fast Marching Method, Alexandru Telea, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_2004JGraphToolsTelea.pdf)
 
-### Class CS231n: Deep Learning for Computer Vision at Stanford
+[Mathematical Models for Local Non-Texture Inpaintings, T. Chan and J. Shen, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/MathematicalL_Models_for_Local_Nontexture_Inpaintings_Chan_2002.pdf)
 
-[CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
+[Mathematical Models for Local Deterministic Inpaintings, T. Chan and J. Shen, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Mathematical_Models_for_Local_deterministic_Inpaintings_Chan_2000.pdf)
 
-github repo: https://github.com/cs231n/cs231n.github.io
+[Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
+
+[Nonlinear Total Variation Based Noise Removal Algorithms, L. Rudin, S. Osher, E. Fatemi, 1992](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Nonlinear_total_variation_based_noise_removal_algo_Rudin_1999.pdf)
 
 ### Object Detection Techniques and Algorithms
 
@@ -84,3 +107,10 @@ https://scikit-image.org/
 
 https://docs.opencv.org/4.x/index.html
 
+## Classes related to Image Processing Algorithms
+
+### Class CS231n: Deep Learning for Computer Vision at Stanford
+
+[CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
+
+github repo: https://github.com/cs231n/cs231n.github.io
