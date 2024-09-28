@@ -1,15 +1,25 @@
 # Image Processing Algorithms and Open Source Libraries in Python
 
 ## Books
-[Handbook of Computer Vision and Applications: Volume 2 Signal Processing and Pattern Recognition, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf)
+[Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd edition, draft, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf)
+
+[Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
 [Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
 
-[Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd edition, draft, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf)
-
 [Digital Image Processing, Rafael C. Gonzalez, Richard E. Woods, 4th edition, 2018](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/digital_image_processing_gonzales_4th_edition_2018.pdf)
 
-[Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
+[Principles of Digital Image Synthesis, Vol. 1, Andrew S. Glassner, 1995](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
+
+[Handbook of Image Processing and Computer Vision, Vol1: From Energy to Image, Arcangelo Distante, Cosimo Distante, Springer, 2020](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/handbook-of-image-processing-and-computer-vision-vol1-from-energy-to-image.pdf)
+
+[Handbook of Image Processing and Computer Vision, Vol2: From Image to Pattern, Arcangelo Distante, Cosimo Distante, Springer, 2020](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/handbook-of-image-processing-and-computer-vision-volume-2-from-image-to-pattern-2.pdf)
+
+[Handbook of Image Processing and Computer Vision, Vol3: From Pattern to Object, Arcangelo Distante, Cosimo Distante, Springer, 2020](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/handbook-of-image-processing-and-computer-vision-volume-3-from-pattern-to-object.pdf)
+
+[Handbook of Computer Vision and Applications: Volume 1 Sensors and Imaging, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol1_Sensors_and_Imaging_Bernd_Jahne.pdf)
+
+[Handbook of Computer Vision and Applications: Volume 2 Signal Processing and Pattern Recognition, Bernd Jahne, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Handbook_of_Computer_Vision_and_Applications_Vol2_Signal_Processing_and_Pattern_Recognition_Bernd_Jahne.pdf)
 
 [Discrete Time Signal Processing, Alan Oppenheim, Ronald Schafer, MIT, 2nd Edition, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf)
 
