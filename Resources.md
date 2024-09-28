@@ -65,7 +65,9 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [An Image Inpainting Technique Based on the Fast Marching Method, Alexandru Telea, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_2004JGraphToolsTelea.pdf)
 
-[Mathematical Models for Local Non-Texture Inpaintings, T. Chan and J. Shen, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/MathematicalL_Models_for_Local_Nontexture_Inpaintings_Chan_2002.pdf)
+[Mathematical Models for Local Non-Texture Inpaintings, T. Chan and J. Shen, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/MathematicalL_Models_for_Local_Nontexture_Inpaintings_Chan_2002.pdf)
+
+[Mathematical Models for Local Deterministic Inpaintings, T. Chan and J. Shen, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Mathematical_Models_for_Local_deterministic_Inpaintings_Chan_2000.pdf)
 
 ### Object Detection Techniques and Algorithms
 
