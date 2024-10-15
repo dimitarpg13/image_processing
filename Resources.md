@@ -3,6 +3,8 @@
 ## Books
 [Computer Vision: Algorithms and Applications, Richard Szeliski, 2nd edition, draft, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_Algorithms_Applications_Szeliski_2ed_2021_draft.pdf)
 
+[Computer Vision, Linda Shapiro, George Stockman, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision-Linda_Shapiro_2000.pdf)
+
 [Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
 [Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
