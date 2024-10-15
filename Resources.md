@@ -63,11 +63,19 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Spatial Filtering: Laplacian and Laplacian of Gaussian, online document](https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm)
 
-### Image Matching 
+### Image and Pattern Recognition, Matching 
+
+[Tutorial on Image Recognition, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html)
 
 [Tutorial on Image Matching, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial2.html)
 
 [Matching Images by Comparing their Gradient Fields, Daniel Scharstein, 1994](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/gradients/gradient.pdf)
+
+[Analysis of focus-measure operators for shape-from-focus, Said Pertuz et al, 2013](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/pattern_recognition/Pattern_Recognition_Pertuz_2013.pdf)
+
+### Template Matching
+
+[Continuous Edge gradient Based template Matching for Articulated Objects, Daniel Mohr et al, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/gradients/Continuous_Edge_Gradient-Based_Template_Matching_for_Articulated_Objects_Mohr_2001.pdf)
 
 ### Image Segmentation
 
@@ -77,9 +85,6 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Tutorial on Image Segmentation, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial3.html)
 
-### Image Recognition
-
-[Tutorial on Image Recognition, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html)
 
 ### Inpainting Methods, Techniques, and Algorithms
 
