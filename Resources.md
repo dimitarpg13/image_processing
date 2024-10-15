@@ -67,6 +67,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Tutorial on Image Matching, Serena Yeung, Stanford U., 2015, online document](https://ai.stanford.edu/~syyeung/cvweb/tutorial2.html)
 
+[Matching Images by Comparing their Gradient Fields, Daniel Scharstein, 1994](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/gradients/gradient.pdf)
+
 ### Image Segmentation
 
 [Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
