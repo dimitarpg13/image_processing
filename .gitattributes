@@ -63,3 +63,4 @@ literature/articles/variational_methods/Variational_Bayesian_Image_Restoration_w
 literature/articles/1992-FilteringSegmentationDepthNitzbergMumfordShiota.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Computer_Vision-Linda_Shapiro_2000.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/pattern_recognition/Pattern_Recognition_Pertuz_2013.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Computer_Vision_A_Modern_Approach-Forsyth_Ponce_2010.pdf filter=lfs diff=lfs merge=lfs -text
