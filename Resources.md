@@ -29,6 +29,8 @@
 
 [Discrete Time Signal Processing, Alan Oppenheim, Ronald Schafer, MIT, 2nd Edition, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf)
 
+[Computer Vision: Modern Approach, Jean Ponce, David Forsyth, 2nd Ed, 2011](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_A_Modern_Approach-Forsyth_Ponce_2010.pdf)
+
 ## Articles and online materials
 
 ### Edge Detection, Contour Finding, Skeletonizing Algorithms
