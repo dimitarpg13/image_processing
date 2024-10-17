@@ -31,6 +31,8 @@
 
 [Computer Vision: Modern Approach, Jean Ponce, David Forsyth, 2nd Ed, 2011](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Computer_Vision_A_Modern_Approach-Forsyth_Ponce_2010.pdf)
 
+[Algorithms for Image Processing and Computer Vision,  J. R. Parker, 1996](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Algorithms_for_Image_Processing_and_Computer_Vision.pdf)
+
 ## Articles and online materials
 
 ### Edge Detection, Contour Finding, Skeletonizing Algorithms
