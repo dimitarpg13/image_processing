@@ -106,6 +106,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
 
+[Stochastic Relaxation, Gibbs Distributions, and Bayesian Restoration of Images, Stuart Geman and Donald Geman, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Stochastic_relaxation_Gibbs_distributions_and_Bayesian_restoration_of_images_Geman_1984.pdf)
+
 ### Object Detection Techniques and Algorithms
 
 [Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
