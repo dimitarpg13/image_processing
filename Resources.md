@@ -125,6 +125,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [The Bayesian Rationale for Energy Functionals, David Mumford, 1997](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/The_Bayesian_Rationale_for_Energy_Functionals_Mumford_1997.pdf)
 
+[Image recovery via total variation minimization and related problems, Antonin Chambolle, Pierre-Louis Lions, 1997](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Image_recovery_via_total_variation_minimization_and_related_problems_Chambolle_Lions_1997.pdf)
+
 [Convergence of an Iterative Method for Total Variation Denoising, David C. Dobson and Curtis R. Vogel, 1997](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Convergence_of_an_Iterative_Method_for_Total_Variation_Denoising_Dobson_1997.pdf)
 
 [Total Variation Image Restoration with Local Constraints, M. Bertalmio, V. Caselles, B. Rouge, A. Sole, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Total_Variation_Image_Restoration_With_Local_Constraints_Bertalmio_2002.pdf)
