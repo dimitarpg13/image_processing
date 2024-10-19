@@ -104,6 +104,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
 
+[An Axiomatic Approach to Image Interpolation, Vicent Caselles et al, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_axiomatic_approach_to_image_interpolation_Caselles_1999.pdf)
+
 [Nonlinear Total Variation Based Noise Removal Algorithms, L. Rudin, S. Osher, E. Fatemi, 1992](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Nonlinear_total_variation_based_noise_removal_algo_Rudin_1999.pdf)
 
 [Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
