@@ -116,6 +116,21 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Blob Detection, Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)
 
+
+### Variational Methods
+
+[Optimal Approximations by Piecewise Smooth Functions and Associated Variational Problems, David Mumford, Jayant Shah, 1989](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Optimal_Approximations_by_Piecewise_Smooth_Functions_and_Associated_Variational_Problems_1989-Mumford-Shah.pdf)
+
+[The Bayesian Rationale for Energy Functionals, David Mumford, 1997](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/The_Bayesian_Rationale_for_Energy_Functionals_Mumford_1997.pdf)
+
+[Convergence of an Iterative Method for Total Variation Denoising, David C. Dobson and Curtis R. Vogel, 1997](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Convergence_of_an_Iterative_Method_for_Total_Variation_Denoising_Dobson_1997.pdf)
+
+[Total Variation Image Restoration with Local Constraints, M. Bertalmio, V. Caselles, B. Rouge, A. Sole, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Total_Variation_Image_Restoration_With_Local_Constraints_Bertalmio_2002.pdf)
+
+[Image Restoration Subject To Total Variation Constraint, Patrick L. Combettes et al, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Image_Restoration_Subject_to_a_Total_Variation_Constraint_Combettes_2004.pdf)
+
+[Parameter Estimation in TV Image Restoration using Variational Approximation, S. Derin Babacan, A. Katsaggelos, 2008](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Parameter_estimation_in_TV_image_restoration_using_Variational_Distribution_Approximation_Babacan_IEEE_2008.pdf)
+
 ## Open Source Libraries
 
 ### scikit-image
