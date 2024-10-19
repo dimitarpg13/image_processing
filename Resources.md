@@ -33,6 +33,8 @@
 
 [Algorithms for Image Processing and Computer Vision,  J. R. Parker, 1996](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Algorithms_for_Image_Processing_and_Computer_Vision.pdf)
 
+[Markov Chains: Gibbs Fields, Monte Carlo Simulation and Queues, Pierre Bremaud, 1998](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.pdf)
+
 ## Articles and online materials
 
 ### Edge Detection, Contour Finding, Skeletonizing Algorithms
