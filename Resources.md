@@ -7,6 +7,8 @@
 
 [Fundamentals of Image Processing, Ian T. Young et al, Delft University of Technology 1995-2007](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Fundamentals_of_Image_Processing_Ian_T_Young_Delft_University_of_Technology.pdf)
 
+[Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
+
 [Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
 
 [Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
