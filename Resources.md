@@ -129,6 +129,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Convergence of an Iterative Method for Total Variation Denoising, David C. Dobson and Curtis R. Vogel, 1997](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Convergence_of_an_Iterative_Method_for_Total_Variation_Denoising_Dobson_1997.pdf)
 
+[Introduction to Variational Methods for Graphical Models, Michael I. Jordan et al, UC Berkeley, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
+
 [Variational Restoration of Nonflat Image Features - Models and Algorithms, T. Chan, J. Seng, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Variational_Restoration_of_Nonflat_Image_Features-Models_and_Algorithms_Chan_2000.pdf)
 
 [Total Variation Image Restoration with Local Constraints, M. Bertalmio, V. Caselles, B. Rouge, A. Sole, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Total_Variation_Image_Restoration_With_Local_Constraints_Bertalmio_2002.pdf)
