@@ -133,6 +133,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Introduction to Variational Methods for Graphical Models, Michael I. Jordan et al, UC Berkeley, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
 
+[Probabilistic Modeling and Reasoning: The Junction Tree Algorithm, David Barber, 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
+
 [Variational Restoration of Nonflat Image Features - Models and Algorithms, T. Chan, J. Seng, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Variational_Restoration_of_Nonflat_Image_Features-Models_and_Algorithms_Chan_2000.pdf)
 
 [Total Variation Image Restoration with Local Constraints, M. Bertalmio, V. Caselles, B. Rouge, A. Sole, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Total_Variation_Image_Restoration_With_Local_Constraints_Bertalmio_2002.pdf)
