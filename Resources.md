@@ -106,6 +106,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Evolution, Implementation, and Application of Level Set and Fast Marching Methods for Advancing Fronts, J. A. Sethian, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Evolution_Implementation_and_Application_of_Level_Set_and_Fast_Marching_Methods_for_Advancing_Fronts_Sethian_2000.pdf)
 
+[A Fast Marching Level Set Method for Monotonically Advancing Fronts, J.A. Sethian, 1996](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/sethian-1996-a-fast-marching-level-set-method-for-monotonically-advancing-fronts.pdf)
+
 [Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
 
 [An Axiomatic Approach to Image Interpolation, Vicent Caselles et al, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_axiomatic_approach_to_image_interpolation_Caselles_1999.pdf)
