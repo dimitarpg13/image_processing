@@ -108,6 +108,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [A Fast Marching Level Set Method for Monotonically Advancing Fronts, J.A. Sethian, 1996](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/sethian-1996-a-fast-marching-level-set-method-for-monotonically-advancing-fronts.pdf)
 
+[Fast methods for the Eikonal and related Hamilton–Jacobi equations on unstructured meshes, J.A. Sethian, A. Vladimirsky, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/sethian-vladimirsky-2000-fast-methods-for-the-eikonal-and-related-hamilton-jacobi-equations-on-unstructured-meshes.pdf)
+
 [Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
 
 [An Axiomatic Approach to Image Interpolation, Vicent Caselles et al, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_axiomatic_approach_to_image_interpolation_Caselles_1999.pdf)
