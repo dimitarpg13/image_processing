@@ -120,6 +120,18 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Stochastic Relaxation, Gibbs Distributions, and Bayesian Restoration of Images, Stuart Geman and Donald Geman, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Stochastic_relaxation_Gibbs_distributions_and_Bayesian_restoration_of_images_Geman_1984.pdf)
 
+#### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
+
+[The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
+
+[Discrete Dynamic Programming and Viscosity Solutions of the Bellman Equations, IC Dolcetta, M. Falcone, 1989](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Discrete_dynamic_programming_and_viscosity_solutions_of_the_Bellman_equation_Dolcetta_1989.pdf)
+
+[Hamilton-Jacobi-Bellman Equations and Optimal Control, IC Dolcetta, 1996](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Hamilton-Jacobi-Bellman_equations_and_optimal_control_Dolcetta_1996.pdf)
+
+[Viscosity Solutions of Hamilton-Jacobi Equations and Optimal Control Problems, A. Bressan, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Viscosity_Solutions_of_Hamilton-Jacobi_Equations_and_Optimal_Control_Problems_Bressan_2001.pdf)
+
+[Simplical Dijkstra and A^{*} Algorithms: From Graphs to Continuous Spaces, D.S. Yershov, S.M. LaValle, 2012](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Simplicial_Dijkstra_and_AStar_Algorithms-From_Graphs_to_Continuous_Spaces_Yershov_2012.pdf)
+
 ### Object Detection Techniques and Algorithms
 
 [Computer Vision Techniques for Body Detection, Valentina Bianco, online blog, 2021](https://blog.xmartlabs.com/blog/computer-vision-techniques-for-body-detection/)
