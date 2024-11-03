@@ -69,3 +69,4 @@ literature/articles/inpainting_algorithms/Stochastic_relaxation_Gibbs_distributi
 literature/books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/inpainting_algorithms/Evolution_Implementation_and_Application_of_Level_Set_and_Fast_Marching_Methods_for_Advancing_Fronts_Sethian_2000.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Discrete_dynamic_programming_and_viscosity_solutions_of_the_Bellman_equation_Dolcetta_1989.pdf filter=lfs diff=lfs merge=lfs -text
