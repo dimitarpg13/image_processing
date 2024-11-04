@@ -104,6 +104,10 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Mathematical Models for Local Deterministic Inpaintings, T. Chan and J. Shen, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Mathematical_Models_for_Local_deterministic_Inpaintings_Chan_2000.pdf)
 
+[Fast marching method, Wikipedia](https://en.wikipedia.org/wiki/Fast_marching_method)
+
+[scikit-fmm: the fast marching method for Python](https://github.com/scikit-fmm/scikit-fmm)
+
 [Evolution, Implementation, and Application of Level Set and Fast Marching Methods for Advancing Fronts, J. A. Sethian, 2000](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Evolution_Implementation_and_Application_of_Level_Set_and_Fast_Marching_Methods_for_Advancing_Fronts_Sethian_2000.pdf)
 
 [A Fast Marching Level Set Method for Monotonically Advancing Fronts, J.A. Sethian, 1996](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/sethian-1996-a-fast-marching-level-set-method-for-monotonically-advancing-fronts.pdf)
