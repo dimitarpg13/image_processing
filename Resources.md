@@ -37,6 +37,9 @@
 
 [Markov Chains: Gibbs Fields, Monte Carlo Simulation and Queues, Pierre Bremaud, 1998](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.pdf)
 
+[Sparse and Redundant Representations: from Theory to Applications in Signal and Image Processing, M. Elad, 2010](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Sparse_and_Redundant_Representations_Elad_2010.pdf)
+
+
 ## Articles and online materials
 
 ### Edge Detection, Contour Finding, Skeletonizing Algorithms
@@ -130,6 +133,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 #### Sparse Representations for Image Inpainting
 
+[Sparse and Redundant Representations: from Theory to Applications in Signal and Image Processing, M. Elad, 2010](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Sparse_and_Redundant_Representations_Elad_2010.pdf)
+
 [Simultaneous cartoon and texture image inpainting using morphological component analysis (MCA), M. Elad, J.-L. Starck,  P. Querre, D.L. Donoho](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Simultaneous_cartoon_and_texture_image_inpainting_using_morphological_component_analysis_Elad_2005.pdf)
 
 [Optimally sparse representation in general(nonorthogonal) dictionaries via $\mathcal{l}^1$ minimization, David L. Donoho and Michael Elad, 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/donoho_elad_2003_optimally_sparse_representation_in_general_nonorthogonal_dictionaries_via_l1_minimization.pdf)
@@ -137,6 +142,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 [Uncertainty Principles and Ideal Atomic Decomposition, D. Donoho, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Uncertainty_Principles_and_Ideal_Atomic_Decomposition_Donoho_2001.pdf)
 
 [Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
+
+[A Generalized Uncertainty Principle and Sparse Representation in Pairs of Bases, Michael Elad and Alfred M. Bruckstein, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/A_Generalized_Uncertainty_Principle_and_Sparse_Representation_in_Pairs_of_Bases_Elad_2002.pdf)
 
 #### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
