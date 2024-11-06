@@ -145,6 +145,8 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [A Generalized Uncertainty Principle and Sparse Representation in Pairs of Bases, Michael Elad and Alfred M. Bruckstein, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/A_Generalized_Uncertainty_Principle_and_Sparse_Representation_in_Pairs_of_Bases_Elad_2002.pdf)
 
+[Just relax: Convex programming methods for subset selection and sparse approximation, JA Tropp, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Just_relax_Convex_programming_methods_for_subset_selection_and_sparse_approximation_Tropp_2004.pdf)
+
 #### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
 [The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
