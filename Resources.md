@@ -147,6 +147,13 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Just relax: Convex programming methods for subset selection and sparse approximation, JA Tropp, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Just_relax_Convex_programming_methods_for_subset_selection_and_sparse_approximation_Tropp_2004.pdf)
 
+[Image decomposition via the combination of sparse representations and a variational
+approach,  J.-L. Starck, M. Elad, D.L. Donoho, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_decomposition_via_the_combination_of_sparse_representations_and_a_variational_approach_Stark_2004.pdf)
+
+[Sparse Representations in Unions of Bases, Remi Gribonval, Morten Nielsen, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Sparse_Representations_in_Unions_of_Bases_Gribonval_2002.pdf)
+
+[The Curvelet Transform for Image Denoising, Jean-Luc Starck, Emmanuel J. Candes, and David L. Donoho, 2002](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/The_Curvelet_Transform_for_Image_Denoising_Starck_2002.pdf)
+
 #### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
 [The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
