@@ -128,7 +128,7 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Simultaneous cartoon and texture image inpainting using morphological component analysis (MCA), M. Elad, J.-L. Starck,  P. Querre, D.L. Donoho](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Simultaneous_cartoon_and_texture_image_inpainting_using_morphological_component_analysis_Elad_2005.pdf)
 
-[Optimally sparse representation in general(nonorthogonal) dictionaries via $\script{l}^1$ minimization, David L. Donoho†‡ and Michael Elad, 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/donoho_elad_2003_optimally_sparse_representation_in_general_nonorthogonal_dictionaries_via_l1_minimization.pdf)
+[Optimally sparse representation in general(nonorthogonal) dictionaries via $\mathcal{l}^1$ minimization, David L. Donoho and Michael Elad, 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/donoho_elad_2003_optimally_sparse_representation_in_general_nonorthogonal_dictionaries_via_l1_minimization.pdf)
 
 #### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
