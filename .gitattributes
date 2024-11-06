@@ -79,3 +79,4 @@ literature/articles/inpainting_algorithms/PyKonal-A_Python_Package_for_Solving_t
 literature/articles/inpainting_algorithms/Sethian/sethian.actanumerica.1995.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/inpainting_algorithms/Sethian/sethian.amersci.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/inpainting_algorithms/Sethian/sethian.siam_fast.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Simultaneous_cartoon_and_texture_image_inpainting_using_morphological_component_analysis_Elad_2005.pdf filter=lfs diff=lfs merge=lfs -text
