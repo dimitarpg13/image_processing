@@ -81,3 +81,4 @@ literature/articles/inpainting_algorithms/Sethian/sethian.amersci.pdf filter=lfs
 literature/articles/inpainting_algorithms/Sethian/sethian.siam_fast.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/inpainting_algorithms/Simultaneous_cartoon_and_texture_image_inpainting_using_morphological_component_analysis_Elad_2005.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Sparse_and_Redundant_Representations_Elad_2010.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/inpainting_algorithms/Just_relax_Convex_programming_methods_for_subset_selection_and_sparse_approximation_Tropp_2004.pdf filter=lfs diff=lfs merge=lfs -text
