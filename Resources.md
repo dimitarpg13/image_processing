@@ -96,7 +96,20 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 ### Inpainting Methods, Techniques, and Algorithms
 
+#### Variational approaches, Navier-Stokes equations, Stochastic Relaxation
+
 [Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001)
+
+[Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
+
+[An Axiomatic Approach to Image Interpolation, Vicent Caselles et al, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_axiomatic_approach_to_image_interpolation_Caselles_1999.pdf)
+
+[Nonlinear Total Variation Based Noise Removal Algorithms, L. Rudin, S. Osher, E. Fatemi, 1992](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Nonlinear_total_variation_based_noise_removal_algo_Rudin_1999.pdf)
+
+[Stochastic Relaxation, Gibbs Distributions, and Bayesian Restoration of Images, Stuart Geman and Donald Geman, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Stochastic_relaxation_Gibbs_distributions_and_Bayesian_restoration_of_images_Geman_1984.pdf)
+
+
+#### Fast Marching Method
 
 [An Image Inpainting Technique Based on the Fast Marching Method, Alexandru Telea, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_2004JGraphToolsTelea.pdf)
 
@@ -114,21 +127,16 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Fast methods for the Eikonal and related Hamilton–Jacobi equations on unstructured meshes, J.A. Sethian, A. Vladimirsky, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/sethian-vladimirsky-2000-fast-methods-for-the-eikonal-and-related-hamilton-jacobi-equations-on-unstructured-meshes.pdf)
 
-[Image Inpainting, M. Bertalmio, G. Shapiro, V. Caselles, C. Ballester, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Image_Inpainting_bertalmio_1999.pdf)
-
-[An Axiomatic Approach to Image Interpolation, Vicent Caselles et al, 1999](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/An_axiomatic_approach_to_image_interpolation_Caselles_1999.pdf)
-
-[Nonlinear Total Variation Based Noise Removal Algorithms, L. Rudin, S. Osher, E. Fatemi, 1992](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Nonlinear_total_variation_based_noise_removal_algo_Rudin_1999.pdf)
-
-[Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
-
-[Stochastic Relaxation, Gibbs Distributions, and Bayesian Restoration of Images, Stuart Geman and Donald Geman, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Stochastic_relaxation_Gibbs_distributions_and_Bayesian_restoration_of_images_Geman_1984.pdf)
 
 #### Sparse Representations for Image Inpainting
 
 [Simultaneous cartoon and texture image inpainting using morphological component analysis (MCA), M. Elad, J.-L. Starck,  P. Querre, D.L. Donoho](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Simultaneous_cartoon_and_texture_image_inpainting_using_morphological_component_analysis_Elad_2005.pdf)
 
-[Optimally sparse representation in general(nonorthogonal) dictionaries via $\mathcal{L}^1$ minimization, David L. Donoho and Michael Elad, 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/donoho_elad_2003_optimally_sparse_representation_in_general_nonorthogonal_dictionaries_via_l1_minimization.pdf)
+[Optimally sparse representation in general(nonorthogonal) dictionaries via $\mathcal{l}^1$ minimization, David L. Donoho and Michael Elad, 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/donoho_elad_2003_optimally_sparse_representation_in_general_nonorthogonal_dictionaries_via_l1_minimization.pdf)
+
+[Uncertainty Principles and Ideal Atomic Decomposition, D. Donoho, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Uncertainty_Principles_and_Ideal_Atomic_Decomposition_Donoho_2001.pdf)
+
+[Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
 
 #### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
