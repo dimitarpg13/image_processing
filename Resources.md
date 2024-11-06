@@ -124,6 +124,10 @@ scikit-image implementation: [active contour model example](https://scikit-image
 
 [Stochastic Relaxation, Gibbs Distributions, and Bayesian Restoration of Images, Stuart Geman and Donald Geman, 1984](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Stochastic_relaxation_Gibbs_distributions_and_Bayesian_restoration_of_images_Geman_1984.pdf)
 
+#### Sparse Representations for Image Inpainting
+
+[Simultaneous cartoon and texture image inpainting using morphological component analysis (MCA), M. Elad, J.-L. Starck,  P. Querre, D.L. Donoho](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/inpainting_algorithms/Simultaneous_cartoon_and_texture_image_inpainting_using_morphological_component_analysis_Elad_2005.pdf)
+
 #### Dynamic Programming, Viscous Flow, Hamilton-Jacobi-Bellman and the Eikonal Equations
 
 [The Eikonal Equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
