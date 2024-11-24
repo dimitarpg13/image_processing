@@ -199,6 +199,10 @@ approach,  J.-L. Starck, M. Elad, D.L. Donoho, 2004](https://github.com/dimitarp
 
 [Parameter Estimation in TV Image Restoration using Variational Approximation, S. Derin Babacan, A. Katsaggelos, 2008](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/variational_methods/Parameter_estimation_in_TV_image_restoration_using_Variational_Distribution_Approximation_Babacan_IEEE_2008.pdf)
 
+### Dimension Reduction
+
+[Modern Dimension Reduction, Philip D. Waggoner, U of Chicago, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/dimension_reduction/Modern_Dimension_Reduction_Waggoner_2021.pdf)
+
 ## Open Source Libraries
 
 ### scikit-image
