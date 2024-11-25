@@ -9,6 +9,12 @@
 
 [Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
 
+[Statistical Pattern Recognition, Andrew R. Webb, Keith D. Copsey, 3rd Edition, 2011](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Statistical_Pattern_Recognition_Webb_Copsey_3rdEd.pdf)
+
+[Pattern Classification, R. Duda, P. Hart, D. Stork, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Richard_Duda_Peter_Hart_David_Stork-Pattern_classification_2001.pdf)
+
+[Introduction to Mulitvariate Statistical Analysis, T.W. Anderson, Stanford U., 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Introduction-to-multivariate-statistical-analysis_Anderson_2003.pdf)
+
 [Feature Extraction in Computer Vision and Image Processing, Mark Nixon, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Feature_Extraction_in_Computer_Vision_and_Image_Processing-Mark_Nixon_2001.pdf)
 
 [Image Segmentation: Principles, Techniques and Applications, Tao Lei, Asoke K. Landi, 2023](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/image-segmentation-principles-techniques-and-applications_Lei_2023.pdf)
