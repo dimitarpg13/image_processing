@@ -87,3 +87,6 @@ literature/articles/dimension_reduction/Modern_Dimension_Reduction_Waggoner_2021
 literature/books/Introduction-to-multivariate-statistical-analysis_Anderson_2003.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Statistical_Pattern_Recognition_Webb_Copsey_3rdEd.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Richard_Duda_Peter_Hart_David_Stork-Pattern_classification_2001.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/discriminant_analysis/Introduction-to-multivariate-statistical-analysis_Anderson_2003.pdf filter=lfs diff=lfs merge=lfs -text
+lecture14_discriminant_analysis.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/discriminant_analysis/lecture14_discriminant_analysis.pdf filter=lfs diff=lfs merge=lfs -text
