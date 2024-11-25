@@ -209,6 +209,18 @@ approach,  J.-L. Starck, M. Elad, D.L. Donoho, 2004](https://github.com/dimitarp
 
 [Modern Dimension Reduction, Philip D. Waggoner, U of Chicago, 2021](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/dimension_reduction/Modern_Dimension_Reduction_Waggoner_2021.pdf)
 
+### Discriminant Analysis
+
+[Linear Discriminant Analysis: a Detailed Tutorial, Alaa Tharwat et al, 2017](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/discriminant_analysis/Linear_Discriminant_Analysis-A_Detailed_Tutorial_Tharwat.pdf)
+
+[PCA versus LDA, AM Martinez, AC Kak, 2001](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/discriminant_analysis/PCA_vs_LDA_Martinez_2001.pdf)
+
+[Introduction to Mulitvariate Statistical Analysis, T.W. Anderson, Stanford U., 2003](https://github.com/dimitarpg13/image_processing/blob/main/literature/books/Introduction-to-multivariate-statistical-analysis_Anderson_2003.pdf)
+
+[The Use of Multiple Measurements in Taxonomic Problems, R.A. Fisher, 1933](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/discriminant_analysis/TheUseOfMultipleMeasurementsFisher1933.pdf)
+
+[A Direct LDA algorithm for High-Dimensional Data - with Application to Face-Recognition, H. Yu et al, CMU, 2004](https://github.com/dimitarpg13/image_processing/blob/main/literature/articles/discriminant_analysis/A_Direct_LDA_Algorithm_for_High-Dimensional_Data_with_Application_to_Face_Recognition_Yu.pdf)
+
 ## Open Source Libraries
 
 ### scikit-image
