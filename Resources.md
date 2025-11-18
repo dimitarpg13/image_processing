@@ -238,3 +238,27 @@ https://docs.opencv.org/4.x/index.html
 [CS231n: Deep Learning for Computer Vision, Stanford](https://cs231n.github.io/)
 
 github repo: https://github.com/cs231n/cs231n.github.io
+
+### Class First Principles of Computer Vision at Columbia U., Shree Nayar
+
+[Image Formation | Image Sensing | Binary Images, 18 videos Last updated on May 2, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdr9X5rgF-d0pkzPdkHZ4KiT)
+
+[Radiometry and Reflectance | Photometric Stereo | Shape from Shading, 19 videos Last updated on Apr 25, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdpyQNZ6WFlGQtDICpzzQ925)
+
+[Optical Flow | Structure from Motion | Object Tracking, 16 videos Last updated on May 25, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdoYzrWStffqBAoUY8XdvatV)
+
+[Camera Calibration | Uncalibrated Stereo, 2 videos Last updated on May 9, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
+
+[Depth from Defocus | Active Illumination Methods, 10 videos Last updated on Apr 25, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdowTcMVNhV0-7RjSOBS4rHO)
+
+[Appearance Matching, 8 videos Last updated on Jun 3, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdoKHr5sfK1qqsJTDMl_MBs2)
+
+[Image Processing I | Image Processing II, 12 videos Last updated on Aug 9, 2024](https://www.youtube.com/playlist?list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu)
+
+[Neural Networks, 9 videos Last updated on Jun 21, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdo3VJmrusPU6xXHk37RuKzi)
+
+[Image Segmentation, 6 videos Last updated on May 25, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdop2EatuowXBX5C-r2FdyNt)
+
+[Edge Detection | Boundary Detection | SIFT Detector, 16 videos Last updated on Apr 4, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cylrhx)
+
+[Image Stitching | Face Detection, 12 videos Last updated on Apr 4, 2021](https://www.youtube.com/playlist?list=PL2zRqk16wsdp8KbDfHKvPYNGF2L-zQASc)
